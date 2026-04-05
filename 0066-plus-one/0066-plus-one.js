@@ -3,12 +3,12 @@
  * @return {number[]}
  */
 var plusOne = function(digits) {
-    carry=1
+   
     for (i=digits.length-1;i>=0;i--)
     {
         if(digits[i]!=9)
         {
-            digits[i]=digits[i]+carry
+            digits[i]=digits[i]+1
             break
         }
         else{
