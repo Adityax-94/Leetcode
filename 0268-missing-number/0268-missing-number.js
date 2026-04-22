@@ -3,12 +3,16 @@
  * @return {number}
  */
 var missingNumber = function(nums) {
+
+    let sum=0
+    let tsum=0
     
-    for(let i=0;i<=nums.length;i++)
+    let i
+    for(i=0;i<nums.length;i++)
     {
-        if (!nums.includes(i))
-        {
-            return i
-        }
+        sum=sum+nums[i]
+        tsum=tsum+i
     }
+    tsum=tsum+i
+    return tsum-sum
 };
