@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax-94/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax-94/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adityax-94/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityax-94/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Adityax-94/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Adityax-94/Leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Adityax-94/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Adityax-94/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Adityax-94/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,8 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax-94/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Adityax-94/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityax-94/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Adityax-94/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
