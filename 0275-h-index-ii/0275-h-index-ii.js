@@ -4,7 +4,7 @@
  */
 var hIndex = function(citations) {
 
-    
+    let n=citations.length
     let right=citations.length-1
     let left=0
     
@@ -20,7 +20,7 @@ var hIndex = function(citations) {
             left = mid + 1
         }
     }
-    return citations.length - left
+    return n - left
    
     
 };
